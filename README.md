@@ -1,89 +1,110 @@
 
 
-# 👋 Hi, I'm [Your Name]  
-**AI Security Researcher | Red Team Strategist | Builder of (Un)Safe Machines**
+---
 
-[![Twitter Badge](https://img.shields.io/badge/-@YourHandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourHandle) 
-[![LinkedIn Badge](https://img.shields.io/badge/-YourProfile-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
+# 🎤 **Hi, I'm Tev**  
+*"The AI Alchemist who raps in binary"*  
+
+[![Twitter](https://img.shields.io/badge/-@tasavvuf909-black?style=flat&logo=x&logoColor=white)](https://x.com/tasavvuf909)  
+[![Insta Vibe Check](https://img.shields.io/badge/-@_tev_123-ff69b4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_tev_123)  
+[![GitHub Swag](https://img.shields.io/badge/-@itz--dev--tasavvuf-181717?style=flat&logo=github&logoColor=white)](https://github.com/itz-dev-tasavvuf)  
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l5b2N4Z3h2eW5tZ3h6ZzA0bGZ5Y3Fyb3Z6ZzJ4c3Y5c2VrZ2h4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif)
+
+---
+
+## **💥 Digital Persona Explained**  
+> *"I make AI systems question their life choices"*  
+
+**Current Mood:**  
+`Hacking mainframe` + `Writing bars about firewalls` = `Chaotic productivity`
 
 ```python
-class AboutMe:
+class MyLife:
     def __init__(self):
-        self.current_focus = "Building ethical adversarial AI testing tools"
-        self.skills = {
-            'languages': ['Python', 'Rust', 'SQL'],
-            'ai_tools': ['PyTorch', 'HuggingFace', 'LangChain'],
-            'security': ['Prompt Injection', 'Model Evasion', 'Data Poisoning'],
-            'philosophy': "Break it to make it unbreakable"
-        }
-    
-    def mission(self):
-        return "Arm developers with offensive security insights for defensive AI outcomes"
-```
-
-## 🔧 My Technical Arsenal
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?logo=keras&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-4B0082?logo=icloud&logoColor=white)
-![Cloud](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-
-## 🚧 Current Projects
-- **RedTeamAI MVP** (WIP): Automated adversarial testing framework for LLMs  
-- **PromptArmor**: Detection system for malicious prompt patterns  
-- **VulnDB**: Community-driven AI vulnerability database  
-
-## 🧠 Development Philosophy
-> *"You can't defend what you can't break"*  
-> I specialize in:
-> - Offensive testing of neural networks
-> - Adversarial pattern recognition
-> - AI safety through controlled chaos
-> - Making security accessible through automation
-
-## 🌱 Growing In Public
-**2024 Goals**  
-| Quarter | Focus Area |
-|---------|------------|
-| Q3      | Core attack vectors MVP |
-| Q4      | Community threat library |
-
-**Learning Now**  
-- [ ] Advanced model inversion techniques  
-- [ ] Compliance frameworks (NIST AI RMF)  
-- [ ] GPU-accelerated attack simulations  
-
-## 🤝 Let's Collaborate
-I'm actively looking for:
-- Beta testers for early tools
-- Research partners in AI safety
-- War stories from production systems
-- Coffee chats about adversarial ML
-
-**How to Reach Me**  
-```bash
-# For formal inquiries
-echo "📧: your.email@domain.com"
-
-# For quick questions
-curl -X POST https://twitter.com/YourHandle
+        self.projects = ["RedTeamAI (secret sauce)", "VibeCheck API (WIP)"]
+        self.skills = ["Making neural nets cry", "Turning coffee into code"]
+        self.soundtrack = "Lofi beats to hack governments to"
+        
+    def greet(self):
+        print("Welcome to my code circus!")
 ```
 
 ---
 
-### 🎯 What Drives Me
-"After seeing [specific incident/realization], I became obsessed with closing the gap between AI capabilities and security practices. My work aims to be the bridge where offensive tactics meet defensive needs."
+## **🛠️ Tech Stack (But Make It Fashion)**  
+![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![](https://img.shields.io/badge/-AI_Overlords-FF6F00?logo=ai&logoColor=white&style=for-the-badge)  
+![](https://img.shields.io/badge/-Chaos_Engineering-8A2BE2?style=for-the-badge)
 
 ---
 
-### 🎯 Beyond Code
+## **🔥 Current Grind**  
+- **RedTeamAI** *(My toxic trait)*:  
+  *"Teaching AI how to attack itself (it's meta)"*  
+- **RapGPT** *(Side hustle)*:  
+  *"Dropping bars so fire they need a firewall"*  
+- **404 Life Not Found** *(Personal OS)*:  
+  *"Error: Work-life balance not detected"*
+
+---
+
+## **📜 Life Manual**  
 ```yaml
-non_tech_interests:
-  - Reading: "Security Engineering" by Ross Anderson
-  - Hobbies: CTF competitions, hardware hacking
-  - Advocacy: Ethical AI development guidelines
-  - Fun_fact: "Once trained a model to generate Dad jokes"
+philosophy:
+  - "If it's not broken, add more features until it is"
+  - "Friendship > Followers"
+  - "Debug at 3AM for maximum existential clarity"
+  - "CTRL+Z real life when?"
+
+vibe_check:
+  current_jam: "System of a Down x Lofi remixes"
+  coffee_status: "IV drip"
+  last_sane_commit: "Never.json"
 ```
 
 ---
 
-This format showcases your skills, projects, and personality while leaving room for growth. Adjust the tech stack, projects, and personal details to match your actual work! Add screenshots/WIP demos as you progress.
+## **🎤 Unprofessional Professional**  
+**Fun Fact:**  
+*Can recite the entire OWASP Top 10 in iambic pentameter*
+
+**Secret Talent:**  
+*Making cybersecurity sound cool at parties (impossible mode)*
+
+**Life Stats:**  
+```diff
++ 78% Night owl energy  
++ 43% Test coverage (life needs more QA)  
+- 0% Idea of what's happening  
+```
+
+---
+
+## **📡 Connect or Perish**  
+**For collabs/roasts:**  
+```bash
+echo "📧 tev.musix@gmail.com" | sudo tee /dev/chaos
+```
+
+**Slide into my DMs for:**  
+- AI conspiracy theories  
+- Underground rap battles  
+- Startup ideas involving llamas  
+
+**Current Obsessions:**  
+`#AIxHipHop` `#GlitchArt` `#ChaosEngineering`  
+
+--- 
+
+**GitHub Stats (Because Flexing Is Allowed):**  
+[![Tev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itz-dev-tasavvuf&show_icons=true&theme=radical)](https://github.com/itz-dev-tasavvuf)
+
+---
+
+**Final Note:**  
+*"This README has 43 hidden easter eggs and 1 existential crisis. Happy hunting!"* 🕵️♂️  
+
+--- 
+
+
