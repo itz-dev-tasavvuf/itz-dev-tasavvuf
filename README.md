@@ -2,7 +2,7 @@
 
 ---
 
-# 🎤 **Hi, I'm Tev**  
+# 🎤 **Hi, I'm Tasavvuf**  
 *"The AI Alchemist who raps in binary"*  
 
 [![Twitter](https://img.shields.io/badge/-@tasavvuf909-black?style=flat&logo=x&logoColor=white)](https://x.com/tasavvuf909)  
